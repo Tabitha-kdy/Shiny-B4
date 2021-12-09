@@ -13,7 +13,7 @@ This app was designed to help tourists and locals find information on cherry blo
 
 The **Cherry Trees Data** tab displays information on the distribution of cherry trees within 22 neighborhoods in Vancouver. 
 
-The **Info Table** tab displays additional information on cherry trees in Vancouver, allowing users to view data on individual tree ID's, street name, block number, and side of street to aid in locating trees based on the filters selected.
+The **Info Table** tab displays additional information on cherry trees in Vancouver, allowing users to view data on individual tree ID's, street name, block number, side of street, among others, to aid in locating trees based on the filters selected.
 
 
 # App Datasource:
