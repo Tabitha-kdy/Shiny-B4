@@ -50,7 +50,7 @@ ui <- fluidPage(
           #I added a slider for date planted, so users could filter based on the age of trees.
           #Using this filter, users can see which year and in which neighborhood cherry blossom trees were planted.
           #This information is fun to play around with, and can even be helpful in locating some older and larger cherry trees.
-            sliderInput("my_slider", "Select a Range for Date Planted",
+            sliderInput("my_slider", "Select a Range for Year Planted",
                         min = 1989, max = 2019, value = c(1989, 2010)),
             
           
