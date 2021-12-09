@@ -1,11 +1,14 @@
 # Vancouver Cherry Blossoms Shiny app
 
+:cherry_blossom: :cherry_blossom: :cherry_blossom:
+
 Welcome to Tabitha's repository for Assignment B4 of STAT 545B!
 
 For this Assignment, **Option C - Shiny App (creating an entirely new app)** was selected.
 
 You can visit the **Vancouver Cherry Blossoms Shiny app** [here](https://tabithakdy.shinyapps.io/shinyapp2/).
 
+:cherry_blossom: :cherry_blossom: :cherry_blossom:
 
 # App Description:
 
