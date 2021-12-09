@@ -1,0 +1,13 @@
+name: shinyapp2
+title: shinyapp2
+username:
+account: tabithakdy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5296654
+bundleId: 5348697
+url: https://tabithakdy.shinyapps.io/shinyapp2/
+when: 1639027937.11315
+lastSyncTime: 1639027937.11315
+asMultiple: FALSE
+asStatic: FALSE
