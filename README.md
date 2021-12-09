@@ -18,4 +18,4 @@ The **Info Table** tab displays additional information on cherry trees in Vancou
 
 # App Datasource:
 
-This Shiny app used the **apt_buildings** dataset provided within the [**R Package datateachr**](https://github.com/UBC-MDS/datateachr).
+This Shiny app used the **vancouver_trees** dataset provided within the [**R Package datateachr**](https://github.com/UBC-MDS/datateachr).
